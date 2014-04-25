@@ -1,0 +1,42 @@
+{
+    "name": "sinergi.dictionaryjs",
+    "description": "Localization and text management library for JS",
+    "homepage": "http://sinergiframework.com",
+    "main": "./lib/sinergi-dictionaryjs.js",
+    "version": "0.1.0",
+    "keywords": [
+        "sinergi",
+        "dictionary",
+        "localization",
+        "text"
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/sinergi/dictionaryjs/blob/master/LICENSE"
+        }
+    ],
+    "scripts": {
+        "bower": "./node_modules/bower/bin/bower install",
+        "test": "./node_modules/grunt-cli/bin/grunt test"
+    },
+    "author": {
+        "name": "Gabriel Bull",
+        "email": "me@gabrielbull.com"
+    },
+    "bugs": {
+        "url": "https://github.com/sinergi/dictionaryjs/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sinergi/dictionaryjs.git"
+    },
+    "github": "https://github.com/sinergi/dictionaryjs",
+    "dependencies": {
+    },
+    "devDependencies": {
+        "grunt": "0.4.2",
+        "bower": "1.2.8",
+        "grunt-cli": "0.1.13"
+    }
+}

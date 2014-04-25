@@ -1,0 +1,26 @@
+{
+    "name": "sinergi.dictionaryjs",
+    "description": "Localization and text management library for JS",
+    "homepage": "http://sinergiframework.com",
+    "main": "./lib/sinergi-dictionaryjs.js",
+    "version": "0.1.0",
+    "keywords": [
+        "sinergi",
+        "dictionary",
+        "localization",
+        "text"
+    ],
+    "author": {
+        "name": "Gabriel Bull",
+        "email": "me@gabrielbull.com"
+    },
+    "ignore": [
+        ".gitignore",
+        ".travis.yml",
+        "package.json"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
