@@ -1,9 +1,9 @@
 {
   "name": "sinergi.dictionary",
   "description": "Localization and text management library for JS",
-  "homepage": "http://sinergiframework.com",
+  "homepage": "https://github.com/sinergi/dictionaryjs",
   "main": "./src/dictionary.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [
     "sinergi",
     "dictionary",
